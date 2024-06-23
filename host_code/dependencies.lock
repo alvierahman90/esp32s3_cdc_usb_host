@@ -1,0 +1,15 @@
+dependencies:
+  espressif/usb_host_cdc_acm:
+    component_hash: ab16b9893f0c23a26bf620ce968b75b3a1a9394e579257a468202ec9803d937d
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.0.3
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.7
+manifest_hash: 05b0b97ba0f8236671325861d7855b462dd3938bc125f794494807cfbc9f65d4
+target: esp32s3
+version: 1.0.0
